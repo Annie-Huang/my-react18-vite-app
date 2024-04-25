@@ -40,6 +40,31 @@ dist/assets/index-MJNRYYyu.js   143.39 kB │ gzip: 46.10 kB
 ✓ built in 1.03s
 PS C:\Temp\my-react18-vite-app>
 
+---- After clean up ----------
+144kb:
+
+PS C:\Temp\my-react18-vite-app> npm run build
+
+> my-react18-vite-app@0.0.0 build
+> tsc && vite build
+
+vite v5.2.10 building for production...
+✓ 32 modules transformed.
+dist/index.html                  0.39 kB │ gzip:  0.27 kB
+dist/assets/index-C4sXy6qE.js  142.69 kB │ gzip: 45.80 kB
+✓ built in 1.00s
+
+-------------
+Add Buttons
+336KB
+
+vite v5.2.10 building for production...
+✓ 320 modules transformed.
+dist/index.html                  0.39 kB │ gzip:  0.27 kB
+dist/assets/index-BFwxL-X6.js  229.71 kB │ gzip: 75.74 kB
+✓ built in 2.44s
+
+
 ---------------------------------------
 
 PS C:\Temp\my-react18-vite-app> npm install @mui/material @emotion/react @emotion/styled
