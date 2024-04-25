@@ -17,3 +17,8 @@ Done. Now run:
   npm run dev
 
 PS C:\Temp>
+
+
+
+PS C:\Temp\my-react18-vite-app> npm i vite-bundle-visualizer
+
