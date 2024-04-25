@@ -2,6 +2,8 @@
 https://www.npmjs.com/package/vite-bundle-visualizer
 https://stackoverflow.com/questions/75746767/is-there-any-bundle-analyzer-for-vite
 
+https://stackoverflow.com/questions/76351538/jest-testing-with-vite
+https://jestjs.io/docs/getting-started#using-vite
 ---------------------------------------------------------------------------
 
 PS C:\Temp> npm create vite@latest my-react18-vite-app
@@ -33,4 +35,4 @@ dist/assets/react-CHdo91hT.svg    4.13 kB │ gzip:  2.14 kB
 dist/assets/index-DiwrgTda.css    1.39 kB │ gzip:  0.72 kB
 dist/assets/index-MJNRYYyu.js   143.39 kB │ gzip: 46.10 kB
 ✓ built in 1.03s
-PS C:\Temp\my-react18-vite-app> 
+PS C:\Temp\my-react18-vite-app>
