@@ -23,13 +23,19 @@ Done. Now run:
 
 PS C:\Temp>
 
-
+------------------
 
 PS C:\Temp\my-react18-vite-app> npm i vite-bundle-visualizer
 PS C:\Temp\my-react18-vite-app> npm run build
 
+PS C:\Temp\my-react18-vite-app> npm install @mui/material @emotion/react @emotion/styled
+
+------------------
+
+PS C:\Temp\my-react18-vite-app> npm run build
+
 > my-react18-vite-app@0.0.0 build
-> tsc && vite build
+> tsc && vite build                 <--- !!! This will run lint as well....
 
 vite v5.2.10 building for production...
 ✓ 34 modules transformed.
@@ -64,7 +70,15 @@ dist/index.html                  0.39 kB │ gzip:  0.27 kB
 dist/assets/index-BFwxL-X6.js  229.71 kB │ gzip: 75.74 kB
 ✓ built in 2.44s
 
+-------------
+Add Tabs
+
+vite v5.2.10 building for production...
+✓ 390 modules transformed.
+dist/index.html                  0.39 kB │ gzip:  0.27 kB
+dist/assets/index-_jVC39I_.js  253.14 kB │ gzip: 83.02 kB
+✓ built in 2.84s
+
 
 ---------------------------------------
 
-PS C:\Temp\my-react18-vite-app> npm install @mui/material @emotion/react @emotion/styled
