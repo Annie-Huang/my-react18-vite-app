@@ -3,6 +3,8 @@ import react from '@vitejs/plugin-react'
 import { visualizer } from "rollup-plugin-visualizer";
 
 // https://vitejs.dev/config/
+// https://www.npmjs.com/package/vite-bundle-visualizer
+// https://stackoverflow.com/questions/75746767/is-there-any-bundle-analyzer-for-vite
 export default defineConfig({
   plugins: [
     react(),

@@ -21,4 +21,16 @@ PS C:\Temp>
 
 
 PS C:\Temp\my-react18-vite-app> npm i vite-bundle-visualizer
+PS C:\Temp\my-react18-vite-app> npm run build
 
+> my-react18-vite-app@0.0.0 build
+> tsc && vite build
+
+vite v5.2.10 building for production...
+✓ 34 modules transformed.
+dist/index.html                   0.46 kB │ gzip:  0.30 kB
+dist/assets/react-CHdo91hT.svg    4.13 kB │ gzip:  2.14 kB
+dist/assets/index-DiwrgTda.css    1.39 kB │ gzip:  0.72 kB
+dist/assets/index-MJNRYYyu.js   143.39 kB │ gzip: 46.10 kB
+✓ built in 1.03s
+PS C:\Temp\my-react18-vite-app> 
