@@ -44,7 +44,7 @@ Set up Jest:
 PS C:\Temp\my-react18-vite-app> npm install -D @testing-library/react @testing-library/jest-dom @testing-library/user-event @types/jest
 PS C:\Temp\my-react18-vite-app> npm install -D ts-jest
 PS C:\Temp\my-react18-vite-app> npm install -D jest-environment-jsdom
-
+PS C:\Temp\my-react18-vite-app> npm install -D ts-node
 ------------------
 
 PS C:\Temp\my-react18-vite-app> npm run build
