@@ -9,6 +9,7 @@ https://saucelabs.com/resources/blog/vitest-vs-jest-comparison
 https://dev.to/mbarzeev/from-jest-to-vitest-migration-and-benchmark-23pl
 
 https://dev.to/teyim/effortless-testing-setup-for-react-with-vite-typescript-jest-and-react-testing-library-1c48
+https://github.com/teyim/Vite-test-setup
 https://dev.to/hannahadora/jest-testing-with-vite-and-react-typescript-4bap
 https://zaferayan.medium.com/how-to-setup-jest-and-react-testing-library-in-vite-project-2600f2d04bdd
 https://github.com/ozcanzaferayan/vite-jest-integration/commit/68af95d37849d7cfc6fbd5b005b6e8481896e287
@@ -41,6 +42,8 @@ PS C:\Temp\my-react18-vite-app> npm install @mui/material @emotion/react @emotio
 
 Set up Jest:
 PS C:\Temp\my-react18-vite-app> npm install -D @testing-library/react @testing-library/jest-dom @testing-library/user-event @types/jest
+PS C:\Temp\my-react18-vite-app> npm install -D ts-jest
+PS C:\Temp\my-react18-vite-app> npm install -D jest-environment-jsdom
 
 ------------------
 
