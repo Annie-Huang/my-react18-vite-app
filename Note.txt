@@ -96,6 +96,18 @@ dist/index.html                  0.39 kB │ gzip:  0.27 kB
 dist/assets/index-_jVC39I_.js  253.14 kB │ gzip: 83.02 kB
 ✓ built in 2.84s
 
+---------------
+Add Jest:
+
+vite v5.2.10 building for production...
+✓ 391 modules transformed.
+dist/index.html                   0.46 kB │ gzip:  0.30 kB
+dist/assets/react-CHdo91hT.svg    4.13 kB │ gzip:  2.14 kB
+dist/assets/index-CSyeRs2F.css    0.03 kB │ gzip:  0.05 kB
+dist/assets/index-BLQB9s1O.js   253.22 kB │ gzip: 83.07 kB
+✓ built in 2.86s
+PS C:\Temp\my-react18-vite-app>
+
 
 ---------------------------------------
 
