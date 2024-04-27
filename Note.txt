@@ -5,6 +5,15 @@ https://www.npmjs.com/package/rollup-plugin-visualizer
 
 https://stackoverflow.com/questions/76351538/jest-testing-with-vite
 https://jestjs.io/docs/getting-started#using-vite
+https://saucelabs.com/resources/blog/vitest-vs-jest-comparison
+https://dev.to/mbarzeev/from-jest-to-vitest-migration-and-benchmark-23pl
+
+https://dev.to/teyim/effortless-testing-setup-for-react-with-vite-typescript-jest-and-react-testing-library-1c48
+https://dev.to/hannahadora/jest-testing-with-vite-and-react-typescript-4bap
+https://zaferayan.medium.com/how-to-setup-jest-and-react-testing-library-in-vite-project-2600f2d04bdd
+https://github.com/ozcanzaferayan/vite-jest-integration/commit/68af95d37849d7cfc6fbd5b005b6e8481896e287
+
+
 
 https://mui.com/material-ui/getting-started/installation/
 ---------------------------------------------------------------------------
@@ -29,6 +38,9 @@ PS C:\Temp\my-react18-vite-app> npm i vite-bundle-visualizer
 PS C:\Temp\my-react18-vite-app> npm run build
 
 PS C:\Temp\my-react18-vite-app> npm install @mui/material @emotion/react @emotion/styled
+
+Set up Jest:
+PS C:\Temp\my-react18-vite-app> npm install -D @testing-library/react @testing-library/jest-dom @testing-library/user-event @types/jest
 
 ------------------
 
