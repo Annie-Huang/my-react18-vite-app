@@ -46,6 +46,7 @@ PS C:\Temp\my-react18-vite-app> npm install -D ts-jest
 PS C:\Temp\my-react18-vite-app> npm install -D jest-environment-jsdom
 PS C:\Temp\my-react18-vite-app> npm install -D ts-node
 PS C:\Temp\my-react18-vite-app> npm install -D identity-obj-proxy
+PS C:\Temp\my-react18-vite-app> npm install -D jest-transformer-svg
 ------------------
 
 PS C:\Temp\my-react18-vite-app> npm run build
